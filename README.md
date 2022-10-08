@@ -1,4 +1,2 @@
 # hacktoberfest
-hacktoberfest
-
-hello world
+Introduction to C
